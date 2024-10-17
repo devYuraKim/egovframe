@@ -1,0 +1,261 @@
+org/apache/cordova/device/Device.java
+ org.apache.cordova.device.Device
+org/apache/cordova/file/InvalidModificationException.java
+ org.apache.cordova.file.InvalidModificationException
+org/apache/cordova/inappbrowser/InAppBrowser.java
+ org.apache.cordova.inappbrowser.InAppBrowser
+ org.apache.cordova.inappbrowser.InAppBrowser$1
+ org.apache.cordova.inappbrowser.InAppBrowser$2
+ org.apache.cordova.inappbrowser.InAppBrowser$3
+ org.apache.cordova.inappbrowser.InAppBrowser$4
+ org.apache.cordova.inappbrowser.InAppBrowser$5
+ org.apache.cordova.inappbrowser.InAppBrowser$5$1
+ org.apache.cordova.inappbrowser.InAppBrowser$6
+ org.apache.cordova.inappbrowser.InAppBrowser$6$1
+ org.apache.cordova.inappbrowser.InAppBrowser$6$2
+ org.apache.cordova.inappbrowser.InAppBrowser$6$3
+ org.apache.cordova.inappbrowser.InAppBrowser$6$4
+ org.apache.cordova.inappbrowser.InAppBrowser$6$5
+ org.apache.cordova.inappbrowser.InAppBrowser$InAppBrowserClient
+io/sqlc/SQLiteConnectorDatabase.java
+ io.sqlc.SQLiteConnectorDatabase
+org/apache/cordova/camera/ExifHelper.java
+ org.apache.cordova.camera.ExifHelper
+ru/trykov/root/RootDetection.java
+ ru.trykov.root.RootDetection
+org/apache/cordova/globalization/GlobalizationError.java
+ org.apache.cordova.globalization.GlobalizationError
+org/apache/cordova/file/ContentFilesystem.java
+ org.apache.cordova.file.ContentFilesystem
+org/apache/cordova/file/FileUtils.java
+ org.apache.cordova.file.FileUtils
+ org.apache.cordova.file.FileUtils$1
+ org.apache.cordova.file.FileUtils$10
+ org.apache.cordova.file.FileUtils$11
+ org.apache.cordova.file.FileUtils$12
+ org.apache.cordova.file.FileUtils$13
+ org.apache.cordova.file.FileUtils$14
+ org.apache.cordova.file.FileUtils$15
+ org.apache.cordova.file.FileUtils$16
+ org.apache.cordova.file.FileUtils$17
+ org.apache.cordova.file.FileUtils$18
+ org.apache.cordova.file.FileUtils$19
+ org.apache.cordova.file.FileUtils$2
+ org.apache.cordova.file.FileUtils$20
+ org.apache.cordova.file.FileUtils$21
+ org.apache.cordova.file.FileUtils$22
+ org.apache.cordova.file.FileUtils$23
+ org.apache.cordova.file.FileUtils$24
+ org.apache.cordova.file.FileUtils$25
+ org.apache.cordova.file.FileUtils$26
+ org.apache.cordova.file.FileUtils$27
+ org.apache.cordova.file.FileUtils$28
+ org.apache.cordova.file.FileUtils$29
+ org.apache.cordova.file.FileUtils$3
+ org.apache.cordova.file.FileUtils$4
+ org.apache.cordova.file.FileUtils$5
+ org.apache.cordova.file.FileUtils$6
+ org.apache.cordova.file.FileUtils$7
+ org.apache.cordova.file.FileUtils$8
+ org.apache.cordova.file.FileUtils$9
+ org.apache.cordova.file.FileUtils$FileOp
+kr/go/egovframework/hyb/plugin/EgovZip.java
+ kr.go.egovframework.hyb.plugin.EgovZip
+kr/go/egovframework/hyb/deviceold1/MainActivity.java
+ kr.go.egovframework.hyb.deviceold1.MainActivity
+org/apache/cordova/devicemotion/AccelListener.java
+ org.apache.cordova.devicemotion.AccelListener
+ org.apache.cordova.devicemotion.AccelListener$1
+org/apache/cordova/media/FileHelper.java
+ org.apache.cordova.media.FileHelper
+io/github/pwlin/cordova/plugins/fileopener2/FileOpener2.java
+ io.github.pwlin.cordova.plugins.fileopener2.FileOpener2
+io/github/pwlin/cordova/plugins/fileopener2/FileProvider.java
+ io.github.pwlin.cordova.plugins.fileopener2.FileProvider
+org/apache/cordova/dialogs/Notification.java
+ org.apache.cordova.dialogs.Notification
+ org.apache.cordova.dialogs.Notification$1
+ org.apache.cordova.dialogs.Notification$2
+ org.apache.cordova.dialogs.Notification$2$1
+ org.apache.cordova.dialogs.Notification$2$2
+ org.apache.cordova.dialogs.Notification$3
+ org.apache.cordova.dialogs.Notification$3$1
+ org.apache.cordova.dialogs.Notification$3$2
+ org.apache.cordova.dialogs.Notification$3$3
+ org.apache.cordova.dialogs.Notification$3$4
+ org.apache.cordova.dialogs.Notification$4
+ org.apache.cordova.dialogs.Notification$4$1
+ org.apache.cordova.dialogs.Notification$4$2
+ org.apache.cordova.dialogs.Notification$4$3
+ org.apache.cordova.dialogs.Notification$4$4
+ org.apache.cordova.dialogs.Notification$5
+ org.apache.cordova.dialogs.Notification$5$1
+ org.apache.cordova.dialogs.Notification$6
+ org.apache.cordova.dialogs.Notification$6$1
+org/apache/cordova/media/AudioPlayer.java
+ org.apache.cordova.media.AudioPlayer
+ org.apache.cordova.media.AudioPlayer$1
+ org.apache.cordova.media.AudioPlayer$MODE
+ org.apache.cordova.media.AudioPlayer$STATE
+org/apache/cordova/mediacapture/FileHelper.java
+ org.apache.cordova.mediacapture.FileHelper
+kr/go/egovframework/hyb/deviceinfoapp/BuildConfig.java
+ kr.go.egovframework.hyb.deviceinfoapp.BuildConfig
+io/sqlc/SQLitePlugin.java
+ io.sqlc.SQLitePlugin
+ io.sqlc.SQLitePlugin$1
+ io.sqlc.SQLitePlugin$Action
+ io.sqlc.SQLitePlugin$DBQuery
+ io.sqlc.SQLitePlugin$DBRunner
+kr/go/egovframework/hyb/deviceinfoapp/MainActivity.java
+ kr.go.egovframework.hyb.deviceinfoapp.MainActivity
+org/apache/cordova/mediacapture/PendingRequests.java
+ org.apache.cordova.mediacapture.PendingRequests
+ org.apache.cordova.mediacapture.PendingRequests$1
+ org.apache.cordova.mediacapture.PendingRequests$Request
+org/apache/cordova/media/AudioHandler.java
+ org.apache.cordova.media.AudioHandler
+ org.apache.cordova.media.AudioHandler$1
+org/apache/cordova/whitelist/WhitelistPlugin.java
+ org.apache.cordova.whitelist.WhitelistPlugin
+ org.apache.cordova.whitelist.WhitelistPlugin$1
+ org.apache.cordova.whitelist.WhitelistPlugin$CustomConfigXmlParser
+org/apache/cordova/geolocation/Geolocation.java
+ org.apache.cordova.geolocation.Geolocation
+org/apache/cordova/camera/FileProvider.java
+ org.apache.cordova.camera.FileProvider
+org/apache/cordova/file/Filesystem.java
+ org.apache.cordova.file.Filesystem
+ org.apache.cordova.file.Filesystem$LimitedInputStream
+ org.apache.cordova.file.Filesystem$ReadFileCallback
+com/hutchind/cordova/plugins/streamingmedia/StreamingMedia.java
+ com.hutchind.cordova.plugins.streamingmedia.StreamingMedia
+ com.hutchind.cordova.plugins.streamingmedia.StreamingMedia$1
+org/apache/cordova/file/TypeMismatchException.java
+ org.apache.cordova.file.TypeMismatchException
+kr/go/egovframework/hyb/plugin/CustomPlugin.java
+ kr.go.egovframework.hyb.plugin.CustomPlugin
+ kr.go.egovframework.hyb.plugin.CustomPlugin$1
+org/apache/cordova/file/LocalFilesystemURL.java
+ org.apache.cordova.file.LocalFilesystemURL
+org/apache/cordova/file/DirectoryManager.java
+ org.apache.cordova.file.DirectoryManager
+org/apache/cordova/mediacapture/Capture.java
+ org.apache.cordova.mediacapture.Capture
+ org.apache.cordova.mediacapture.Capture$1
+org/apache/cordova/file/LocalFilesystem.java
+ org.apache.cordova.file.LocalFilesystem
+com/phonegap/plugins/barcodescanner/BarcodeScanner.java
+ com.phonegap.plugins.barcodescanner.BarcodeScanner
+org/apache/cordova/contacts/ContactInfoDTO.java
+ org.apache.cordova.contacts.ContactInfoDTO
+org/apache/cordova/filetransfer/FileTransfer.java
+ org.apache.cordova.filetransfer.FileTransfer
+ org.apache.cordova.filetransfer.FileTransfer$1
+ org.apache.cordova.filetransfer.FileTransfer$2
+ org.apache.cordova.filetransfer.FileTransfer$3
+ org.apache.cordova.filetransfer.FileTransfer$ExposedGZIPInputStream
+ org.apache.cordova.filetransfer.FileTransfer$RequestContext
+ org.apache.cordova.filetransfer.FileTransfer$SimpleTrackingInputStream
+ org.apache.cordova.filetransfer.FileTransfer$TrackingGZIPInputStream
+ org.apache.cordova.filetransfer.FileTransfer$TrackingInputStream
+com/hutchind/cordova/plugins/streamingmedia/SimpleAudioStream.java
+ com.hutchind.cordova.plugins.streamingmedia.SimpleAudioStream
+org/apache/cordova/filetransfer/FileProgressResult.java
+ org.apache.cordova.filetransfer.FileProgressResult
+kr/go/egovframework/hyb/plugin/EgovInterfacePlugin.java
+ kr.go.egovframework.hyb.plugin.EgovInterfacePlugin
+ kr.go.egovframework.hyb.plugin.EgovInterfacePlugin$InterfaceCommTask
+org/apache/cordova/networkinformation/NetworkManager.java
+ org.apache.cordova.networkinformation.NetworkManager
+ org.apache.cordova.networkinformation.NetworkManager$1
+org/apache/cordova/contacts/ContactAccessor.java
+ org.apache.cordova.contacts.ContactAccessor
+ org.apache.cordova.contacts.ContactAccessor$WhereOptions
+org/apache/cordova/splashscreen/SplashScreen.java
+ org.apache.cordova.splashscreen.SplashScreen
+ org.apache.cordova.splashscreen.SplashScreen$1
+ org.apache.cordova.splashscreen.SplashScreen$2
+ org.apache.cordova.splashscreen.SplashScreen$3
+ org.apache.cordova.splashscreen.SplashScreen$4
+ org.apache.cordova.splashscreen.SplashScreen$4$1
+ org.apache.cordova.splashscreen.SplashScreen$5
+ org.apache.cordova.splashscreen.SplashScreen$5$1
+ org.apache.cordova.splashscreen.SplashScreen$6
+ org.apache.cordova.splashscreen.SplashScreen$6$1
+ org.apache.cordova.splashscreen.SplashScreen$7
+org/apache/cordova/batterystatus/BatteryListener.java
+ org.apache.cordova.batterystatus.BatteryListener
+ org.apache.cordova.batterystatus.BatteryListener$1
+org/apache/cordova/file/NoModificationAllowedException.java
+ org.apache.cordova.file.NoModificationAllowedException
+org/apache/cordova/contacts/ContactManager.java
+ org.apache.cordova.contacts.ContactManager
+ org.apache.cordova.contacts.ContactManager$1
+ org.apache.cordova.contacts.ContactManager$2
+ org.apache.cordova.contacts.ContactManager$3
+ org.apache.cordova.contacts.ContactManager$4
+kr/go/egovframework/hyb/plugin/EgovResourceUpdate.java
+ kr.go.egovframework.hyb.plugin.EgovResourceUpdate
+ kr.go.egovframework.hyb.plugin.EgovResourceUpdate$UpdateZipAssetFileAsync
+org/apache/cordova/inappbrowser/InAppChromeClient.java
+ org.apache.cordova.inappbrowser.InAppChromeClient
+org/apache/cordova/filetransfer/FileUploadResult.java
+ org.apache.cordova.filetransfer.FileUploadResult
+kr/go/egovframework/hyb/plugin/EgovFileOpener.java
+ kr.go.egovframework.hyb.plugin.EgovFileOpener
+ kr.go.egovframework.hyb.plugin.EgovFileOpener$FileOpenerFileAsync
+org/apache/cordova/file/PendingRequests.java
+ org.apache.cordova.file.PendingRequests
+ org.apache.cordova.file.PendingRequests$1
+ org.apache.cordova.file.PendingRequests$Request
+org/chromium/ChromeSocketsTcp.java
+ org.chromium.ChromeSocketsTcp
+ org.chromium.ChromeSocketsTcp$1
+ org.chromium.ChromeSocketsTcp$2
+ org.chromium.ChromeSocketsTcp$3
+ org.chromium.ChromeSocketsTcp$SelectorMessage
+ org.chromium.ChromeSocketsTcp$SelectorMessageType
+ org.chromium.ChromeSocketsTcp$SelectorThread
+ org.chromium.ChromeSocketsTcp$TcpSendPacket
+ org.chromium.ChromeSocketsTcp$TcpSocket
+org/apache/cordova/file/FileExistsException.java
+ org.apache.cordova.file.FileExistsException
+kr/go/egovframework/hyb/plugin/EgovStorageInfo.java
+ kr.go.egovframework.hyb.plugin.EgovStorageInfo
+ kr.go.egovframework.hyb.plugin.EgovStorageInfo$FileSystemSize
+org/apache/cordova/file/EncodingException.java
+ org.apache.cordova.file.EncodingException
+org/apache/cordova/file/AssetFilesystem.java
+ org.apache.cordova.file.AssetFilesystem
+org/apache/cordova/camera/FileHelper.java
+ org.apache.cordova.camera.FileHelper
+org/apache/cordova/camera/CameraLauncher.java
+ org.apache.cordova.camera.CameraLauncher
+ org.apache.cordova.camera.CameraLauncher$1
+io/sqlc/SQLiteAndroidDatabase.java
+ io.sqlc.SQLiteAndroidDatabase
+ io.sqlc.SQLiteAndroidDatabase$QueryType
+com/android/plugins/Permissions.java
+ com.android.plugins.Permissions
+ com.android.plugins.Permissions$1
+ com.android.plugins.Permissions$2
+org/apache/cordova/contacts/ContactAccessorSdk5.java
+ org.apache.cordova.contacts.ContactAccessorSdk5
+com/hutchind/cordova/plugins/streamingmedia/ImageLoadTask.java
+ com.hutchind.cordova.plugins.streamingmedia.ImageLoadTask
+org/apache/cordova/deviceorientation/CompassListener.java
+ org.apache.cordova.deviceorientation.CompassListener
+ org.apache.cordova.deviceorientation.CompassListener$1
+com/hutchind/cordova/plugins/streamingmedia/SimpleVideoStream.java
+ com.hutchind.cordova.plugins.streamingmedia.SimpleVideoStream
+ com.hutchind.cordova.plugins.streamingmedia.SimpleVideoStream$1
+org/apache/cordova/inappbrowser/InAppBrowserDialog.java
+ org.apache.cordova.inappbrowser.InAppBrowserDialog
+org/apache/cordova/globalization/Globalization.java
+ org.apache.cordova.globalization.Globalization
+ org.apache.cordova.globalization.Globalization$1
+kr/go/egovframework/hyb/plugin/EgovDeviceNumber.java
+ kr.go.egovframework.hyb.plugin.EgovDeviceNumber
+org/apache/cordova/camera/CordovaUri.java
+ org.apache.cordova.camera.CordovaUri

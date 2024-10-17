@@ -1,0 +1,23 @@
+
+[2024.10.18 02:35:46] Installed component:	egovframework.com.cmm	Common
+[2024.10.18 02:35:46] Installed component:	egovframework.com.cop.com	Collaboration Common
+[2024.10.18 02:35:46] Installed component:	egovframework.com.uat.uia	General Login
+[2024.10.18 02:35:46] Installed component:	egovframework.com.uat.uap	Login Policy Management
+[2024.10.18 02:35:46] Installed component:	egovframework.com.sec.drm	Department Authority Management
+[2024.10.18 02:35:46] Installed component:	egovframework.com.sec.rgm	Authorized Group Management
+[2024.10.18 02:35:46] Installed component:	egovframework.com.sec.rmt	Role Management
+[2024.10.18 02:35:46] Installed component:	egovframework.com.sec.ram	Authority Management
+[2024.10.18 02:35:46] Installed component:	egovframework.com.sec.gmt	Group Management
+[2024.10.18 02:35:46] Installed component:	egovframework.com.sec.security	Security
+[2024.10.18 02:35:46] Installed component:	egovframework.com.cop.tpl	BBS Template
+[2024.10.18 02:35:46] Installed component:	egovframework.com.cop.bbs	Blog Management
+[2024.10.18 02:35:46] Installed component:	egovframework.com.cop.cmt	Comment Management
+[2024.10.18 02:35:46] Installed component:	egovframework.com.cop.scp	Scrap Function
+[2024.10.18 02:35:46] Installed component:	egovframework.com.cop.stf	Satisfaction Research
+[2024.10.18 02:35:46] Installed component:	egovframework.com.cop.cmy	Community Management
+[2024.10.18 02:35:46] Installed component:	egovframework.com.cop.bbs	Blog Management
+[2024.10.18 02:35:46] Installed component:	egovframework.com.cop.ems	Mail Connected Interface
+[2024.10.18 02:35:46] Installed component:	egovframework.com.sym.cal	General Calendar
+[2024.10.18 02:35:46] Installed component:	egovframework.com.utl.fcc	Utility
+[2024.10.18 02:35:46] Installed component:	egovframework.com.utl.wed	Web Editor
+[2024.10.18 02:35:46] Installed component:	egovframework.com.utl.sim	System
